@@ -11,7 +11,7 @@
                 width: 20%;
                 margin: 0 auto 0 auto;
                 font-family: 'Pacifico', cursive;
-                font-size: 300%;
+                font-size: 3em;
                 color: #3d7ea6;
             }
             
@@ -20,7 +20,7 @@
             }
             
             .h2 {
-                font-size: 200%;
+                font-size: 2rem;
                 color: #3d7ea6;
                 font-weight: normal;
                 line-height: 4;
@@ -29,7 +29,7 @@
             .top {
                 background-color: #fcdada;
                 position: relative;
-                padding-top: 187.5%;
+                padding-top: 30px;
             }
             
             h3 {
@@ -38,18 +38,18 @@
             
             .top-cloud {
                 position: absolute;
-                right: 625%;
-                top: 312.5%;
+                right: 100px;
+                top: 50px;
             }
             
             .bottom-cloud {
                 position: absolute;
-                top: 1406.25%;
-                left: 625%;
+                top: 225px;
+                left: 100px;
             }
             
             h2 {
-                font-size: 400%;
+                font-size: 4rem;
                 color: #ffa5a5;
             }
             
@@ -80,21 +80,21 @@
             hr {
                 border-style: dotted none none none;
                 width: 5%;
-                border-width: 43.75%;
+                border-width: 7px;
                 border-color: #5c969e;
             }
             
             .bottom-container {
                 background-color: #fcdada;
-                padding-top: 250%;
-                padding-bottom: 250%;
+                padding-top: 40px;
+                padding-bottom: 40px;
             }
             
             .footer {
                 background-color: inherit;
                 border: none;
                 cursor: pointer;
-                font-size: 100%;
+                font-size: 1em;
                 font-family: 'Montserrat', sans-serif;
             }
             
@@ -104,33 +104,33 @@
             
             .btn {
                 background-color: #ffa5a5;
-                -webkit-border-top-left-radius: 175%;
-                -moz-border-radius-topleft: 175%;
-                border-top-left-radius: 175%;
-                -webkit-border-top-right-radius: 175%;
-                -moz-border-radius-topright: 175%;
-                border-top-right-radius: 175%;
-                -webkit-border-bottom-right-radius: 175%;
-                -moz-border-radius-bottomright: 175%;
-                border-bottom-right-radius: 175%;
-                -webkit-border-bottom-left-radius: 175%;
-                -moz-border-radius-bottomleft: 175%;
-                border-bottom-left-radius: 175%;
+                -webkit-border-top-left-radius: 28px;
+                -moz-border-radius-topleft: 28px;
+                border-top-left-radius: 28px;
+                -webkit-border-top-right-radius: 28px;
+                -moz-border-radius-topright: 28px;
+                border-top-right-radius: 28px;
+                -webkit-border-bottom-right-radius: 28px;
+                -moz-border-radius-bottomright: 28px;
+                border-bottom-right-radius: 28px;
+                -webkit-border-bottom-left-radius: 28px;
+                -moz-border-radius-bottomleft: 28px;
+                border-bottom-left-radius: 28px;
                 text-indent: 0;
                 border: 1px solid #f0895d;
                 display: inline-block;
                 color: #ffffff;
                 font-family: 'Montserrat', sans-serif;
-                font-size: 112.5%;
+                font-size: 18px;
                 font-weight: bold;
                 font-style: normal;
-                height: 312.5%;
-                line-height: 312.5%;
-                width: 868.75%;
+                height: 50px;
+                line-height: 50px;
+                width: 139px;
                 text-decoration: none;
                 text-align: center;
-                margin-bottom: 250%;
-                margin-top: 125%;
+                margin-bottom: 40px;
+                margin-top: 20px;
             }
             
             .btn:hover {
@@ -139,5 +139,5 @@
             
             .btn:active {
                 position: relative;
-                top: 6.25%;
+                top: 1px;
             }
